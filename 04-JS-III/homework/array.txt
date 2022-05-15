@@ -1,0 +1,2 @@
+Array : nos permite ingresar tantas cadenas, numeros, boolenaos como queramos. se declara la variables 
+y se establece en [] luego agregamos el contenedor separados por comas
