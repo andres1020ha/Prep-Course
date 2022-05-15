@@ -1,0 +1,12 @@
+En un archivo de texto separado que debes crear, escribe explicando los siguientes conceptos como si se lo estuviera explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+Variables: nos permite ingrear umna palabra o numero y luego definirla colacando = y el stings ( guardo algo para despues recuperarlo)
+
+Instrumentos de cuerda
+
+Funciones (argumentos, return)  son tipos particulares de objetos llamado callable objet. return para retornar 
+
+Declaraciones if: (SI) else (sino) es para declarar algun resultatado ejm: 
+
+Valores booleanos ( true, false): son los valores logicos, verdadero y falso ejm: 2<3 = true
