@@ -1,0 +1,3 @@
+prototype: cada clase tiene una propiedad prototype, que luego podemos establecer en metodos.
+constructores(de clase):un constructor es un metodo especial de una clase que llama automaticamente siempre que se declara 
+un objeto de esa clase. su funcion es inicializar el objeto  y sirve para asegurarnos que los objetos siempre contengan valores validos.
